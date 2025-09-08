@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
+
 ''' Part 1 : line of best fit for 0.B.2 '''
 # Finding R_m
 V_dcp = [0.57, 1.5, 2.12, 3.06, 4.12, 4.92, 6.43]
